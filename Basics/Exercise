@@ -1,0 +1,5 @@
+1. Explain what the terminal is in your own words.- terminal directly interacts with the operating system in your computer. 
+2. What is the major difference between Git and Github? 
+Git is a decentralized version control system (system that manages code etc.) but can be central in occasional. Open source. Fast. 
+GitHub is a git repository (saves all files old and new) hosting platform where you can upload your code on a remote server. Open source to the public. Business can pay to upload code and keep it private.
+3. Why do we use Github? Stores code, open source, can add extras to help while coding, and fast.
